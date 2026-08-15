@@ -36,6 +36,7 @@ LBE runs directly in the browser through a userscript manager such as Tampermonk
 | **🌐 Dual Localization** | Supports Russian (🇷🇺) and English (🇬🇧) with instant language switching. |
 | **🫠 Animated UI** | Smooth transitions, menu animations, button effects, and achievement alerts. |
 | **🔊 Achievement Sound** | Plays a custom notification sound when an achievement is unlocked. |
+<img width="400" height="406" alt="YouTube и еще 15 страниц — Профиль 1_ Microsoft_ Edge 2026-08-15 17-21-45 (online-video-cutter com)" src="https://github.com/user-attachments/assets/276c00de-7733-4336-a56c-8309f04a8a96" />
 
 ---
 
