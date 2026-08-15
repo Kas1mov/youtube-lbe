@@ -102,6 +102,8 @@ Checks YouTube video pages for active advertisements and automatically reloads t
 * **Session Tracking:** Tracks reload counters per video in `sessionStorage`.
 
 > ⚠️ *Ad detection relies on YouTube's player DOM structure and may require updates if YouTube changes its interface.*
+> 
+<img width="400" height="241" alt="UPDATE 2 0 СИЛЬНО МЕНЯЕТ STALKER 2! GSC ПОКАЗАЛИ ВСЕ ИЗМЕНЕНИЯ - YouTube и еще 12 страниц — Профиль 1_ Microsoft_ Edge 2026-08-15 17-59-35 (online-v" src="https://github.com/user-attachments/assets/15f8e8f8-2c0e-4cc3-ae50-16c050cd95ed" />
 
 ---
 
