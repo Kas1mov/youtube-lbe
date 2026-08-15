@@ -115,6 +115,8 @@ Accessible via the **🏆 LBE** button in the YouTube header.
 * **Ad Reload Editor:** Configure delay, maximum reloads, and page constraints.
 * **Like Protection Editor:** Change password and unlock timeout.
 * **UI Customization Editor:** Manage, add, or remove custom text replacement key-value pairs.
+* 
+<img width="400" height="375" alt="YouTube и еще 10 страниц — Профиль 1_ Microsoft_ Edge 2026-08-15 18-06-19 (online-video-cutter com)" src="https://github.com/user-attachments/assets/f00a1357-3301-4348-8b2e-4d524d0a3a3e" />
 
 ---
 
