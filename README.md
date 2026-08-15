@@ -55,7 +55,12 @@ LBE includes its own achievement system with persistent progress and notificatio
 Achievement progress is stored locally using `localStorage`.
 
 
-<img width="314" height="244" alt="Screenshot_3587" src="https://github.com/user-attachments/assets/683cc549-42b9-4f2e-b9e9-2f9caf18b243" />
+<img width="314" height="244" alt="Screenshot_3587" src="https://github.com/user-attachments/assets/683cc549-42b9-4f2e-b9e9-2f9caf18b243" /> 
+
+https://github.com/user-attachments/assets/5635e95a-e4de-461c-880a-ce48b98e4db3
+
+
+
 
 ---
 
