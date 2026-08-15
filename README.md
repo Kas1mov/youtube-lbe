@@ -182,6 +182,6 @@ LBE stores all user configuration, settings, and achievement data locally in the
 
 **YouTube: Less Boring Edition** • Created with 💡 by **[Kas1mov](https://github.com/Kas1mov)**
 
-*YouTube doesn't have to be boring.*
+*YouTube doesn't have to be boring. ;)*
 
 </div>
