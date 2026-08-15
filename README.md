@@ -149,6 +149,57 @@ YouTube SPA Web Application
 Because YouTube relies heavily on dynamic DOM updates and SPA navigation, LBE continuously monitors navigation events to reapply customizations reliably.
 
 ---
+## 📜 Release History
+
+### Why v0.2?
+
+YouTube: Less Boring Edition did not start as the project it is today.
+
+The very first version of LBE was much smaller and was created as a simple experiment. **v0.1** focused on only a few basic features: protecting the YouTube Like button and replacing selected YouTube interface labels with custom text.
+
+There was no full settings system, no achievement system, no localization, no Ad Reload, and no dedicated LBE interface.
+
+As development continued, the project grew far beyond its original concept.
+
+The simple userscript gradually became a modular customization layer with its own interface, persistent settings, achievements, localization, animations, module editors, and additional functionality.
+
+Because the amount of new functionality significantly changed the project compared to its original prototype, the next public milestone was released as **v0.2** instead of continuing to treat it as a small v0.1 update.
+
+### v0.1 — The Beginning
+
+The original LBE prototype introduced the basic concept:
+
+* 🔐 Like Protection
+* 🎨 Custom YouTube interface labels
+
+The goal was simple:
+
+> Make YouTube a little less boring.
+
+That small experiment became the foundation for everything that followed.
+
+### v0.2 — The First Official Release
+
+**v0.2** represents the first major evolution of LBE.
+
+It introduced:
+
+* 🏆 Achievement System
+* 🔐 Improved Like Protection
+* 🎨 UI Customization
+* 📺 Ad Reload
+* ⚙️ LBE Settings
+* ✏️ Module Editors
+* 🌐 Russian / English Localization
+* 🫠 Animated UI
+* 🔊 Achievement Sound
+* 💾 Persistent local configuration
+
+In other words, **v0.1 was the prototype. v0.2 is where LBE became an actual project.**
+
+This is why the first public release is **v0.2** rather than v0.1.
+
+> **From a simple userscript experiment to YouTube: Less Boring Edition.**
 
 ## 💾 Local Storage Schema
 
